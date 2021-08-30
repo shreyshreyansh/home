@@ -8,11 +8,7 @@
     <a href="https://hashirshoaeb.github.io/home">hashirshoaeb.github.io/home</a>
     <br />
     <br />
-    <a href="https://hashirshoaeb.com/home">About Me</a>
-    ·
-    <a href="https://github.com/hashirshoaeb/home/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/hashirshoaeb/home/issues">Request Feature</a>
+    <a href="https://hashirshoaeb.github.io">About Me</a>
   </p>
 </p>
 
@@ -135,19 +131,6 @@ You should have [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/
 
 Facing issues? Feel free to contact at hashirshoaeb@gmail.com.
 
-## Contributing 🙌
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## Issues
-
-If anyone is looking to make some contribution, the following are issues that you can solve:
-
-- [ ] UI improvements
-- [ ] Code optimization
-- [x] Routing
-- [ ] SEO
-
 ## Showcase 🚀
 
 Have you changed something in the code to create your own version? Feel free to share with me, I will list them in this space.
@@ -205,12 +188,39 @@ Have you changed something in the code to create your own version? Feel free to 
       <br />
     </td>
   </tr>
+    <tr>
+    <td align="center">
+      <a href="https://github.com/xunxdd/portfolio/tree/master">
+        <br />
+        <sub><b>Xun Ding</b></sub>
+      </a>
+      <br />
+    </td>    
+    <td align="center">
+      <a href="https://github.com/S-Philp/Shannel.philp">
+        <br />
+        <sub><b>Shannel Philp</b></sub>
+      </a>
+      <br />
+    </td>    
+    <td align="center">
+      <a href="https://github.com/bibinvargheset/home">
+        <br />
+        <sub><b>Bibin Varghese</b></sub>
+      </a>
+      <br />
+    </td>
+  </tr>
 </table>
 
 ## Versão em Português :brazil:
 
 Esse projeto foi traduzido para português! Se você gostou dele e quer criar a sua própria versão, confira o repositório do [@tashima42](https://github.com/tashima42) em [https://github.com/Tashima42/home](https://github.com/Tashima42/home).
 Novas contribuições e revisões na tradução são muito bem vindas!
+
+## Notice:
+
+This project has been archived. Means that it is no longer actively maintained by developer. Free free to fork, use and maintain your own version. You can check my new portfolio template [here](https://github.com/hashirshoaeb/portfolio)
 
 ## Stargazers over time
 
